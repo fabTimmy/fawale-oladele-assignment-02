@@ -22,7 +22,7 @@ function sumOfNumbers(arrayOfNumbers) {
 }
 
 let sum = sumOfNumbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
-console.log(`The sum of numbers 1 - 10 is:`, sum);
+console.log(sum);
 
 
 /**
@@ -43,7 +43,7 @@ function countEvenNumbers(arrayOfNumbers, number){
 }
 
 let even = countEvenNumbers([1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11,]);
-console.log(`The count of even number is:`, even);
+console.log(even);
 
 /**
  * Challenge - 3
